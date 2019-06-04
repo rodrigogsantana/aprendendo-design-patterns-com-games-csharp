@@ -7,7 +7,7 @@ namespace TemplateMethod
         static void Main(string[] args)
         {
             Console.WriteLine("### Escolha o modo de corrida ###");
-            Console.WriteLine("1-Fácil | 2-Normal | 3-Díficil");
+            Console.WriteLine("1-Fácil | 2-Normal | 3-Difícil");
 
             Console.WriteLine("Suas condições de jogo são: ");
             Jogo jogo = null;
