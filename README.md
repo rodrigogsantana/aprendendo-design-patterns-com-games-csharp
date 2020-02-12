@@ -8,11 +8,11 @@ Se você chegou até aqui e não tem o livro ainda. **[Clique aqui para ver o li
 e ter acesso a todoas as explicações dos códigos e de cada Design Pattern. :smiley:
 
 
-Você também pode contribuir e sugerir outros exemplos que seja possível ensinar Design Patterns com games. Envie um e-mail para: **rodrigo.rgtic@gmail.com** :email:
+Você também pode contribuir e sugerir outros exemplos que seja possível ensinar Design Patterns com games. Vai ser um prazer ter a sua contribuição nas próximas edições do livro. Envie um e-mail para: **rodrigo.rgtic@gmail.com** :email:
 
 
 Muito obrigado, e divirta-se! :rocket:
 
-**Autor**
-_Rodrigo Gonçalves Santana_
+
+_Autor: Rodrigo Gonçalves Santana_
 
