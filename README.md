@@ -1,3 +1,2 @@
-# Aprendendo Design Patterns com jogos clássicos em C#
-
-Código Fonte do Livro
+# Design Patterns com C# 
+Aprenda padrões de projeto com os games :video_game: :space_invader: 
