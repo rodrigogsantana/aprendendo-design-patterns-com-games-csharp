@@ -5,7 +5,7 @@ Você está no **repositório de código fonte do livro** :closed_book:. Aqui, v
 
 
 Se você chegou até aqui e não tem o livro ainda. **[Clique aqui para ver o livro](https://www.casadocodigo.com.br/products/livro-design-paterns-csharp)**
-No livro, você irá encontrar a explicação dos códigos e de cada Design Pattern. :smiley:
+e ter acesso a todoas as explicações dos códigos e de cada Design Pattern. :smiley:
 
 
 Você também pode contribuir e sugerir outros exemplos que seja possível ensinar Design Patterns com games. Envie um e-mail para: **rodrigo.rgtic@gmail.com** :email:
