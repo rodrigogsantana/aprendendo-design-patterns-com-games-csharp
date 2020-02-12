@@ -15,4 +15,6 @@ Muito obrigado, e divirta-se! :rocket:
 
 
 _Autor: Rodrigo Gonçalves Santana_
+<blockquote align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
+
 
