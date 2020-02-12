@@ -4,7 +4,7 @@
 Você está no **repositório de código fonte do livro** :closed_book:. Aqui, você irá encontrar todos os exemplos e os códigos desenvolvidos no decorrer do livro para você práticar. :computer:
 
 
-Se você chegou até aqui e não tem o livro ainda. [Clique aqui para ver o livro](https://www.casadocodigo.com.br/products/livro-design-paterns-csharp)
+Se você chegou até aqui e não tem o livro ainda. **[Clique aqui para ver o livro](https://www.casadocodigo.com.br/products/livro-design-paterns-csharp)**
 No livro, você irá encontrar a explicação dos códigos e de cada Design Pattern. :smiley:
 
 
